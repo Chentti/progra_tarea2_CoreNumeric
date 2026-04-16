@@ -1,0 +1,1 @@
+# progra_tarea2_CoreNumeric
